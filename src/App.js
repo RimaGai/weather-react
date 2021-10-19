@@ -63,7 +63,7 @@ function App() {
         <span className="github-link">
           {" "}
           <a
-            href="https://github.com/RimaGai/WeatherProject"
+            href="https://github.com/RimaGai/weather-react"
             rel="noopener noreferrer"
             target="_blank"
           >
