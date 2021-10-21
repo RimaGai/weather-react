@@ -59,20 +59,18 @@ export default function App() {
           </div>
         </div>
       </div>
-      <div className="Footer">
-        <span className="github-link">
+      <footer>
+        {" "}
+        <a
+          href="https://github.com/RimaGai/weather-react"
+          rel="noopener noreferrer"
+          target="_blank"
+        >
           {" "}
-          <a
-            href="https://github.com/RimaGai/weather-react"
-            rel="noopener noreferrer"
-            target="_blank"
-          >
-            {" "}
-            Open source code
-          </a>{" "}
-          by Rima Gaileviciute
-        </span>
-      </div>
+          Open source code
+        </a>{" "}
+        by Rima Gaileviciute
+      </footer>
     </div>
   );
 }
