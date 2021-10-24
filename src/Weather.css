@@ -9,11 +9,11 @@ form .btn:hover {
   background-color: #b55357;
   color: white;
 }
-.current-location {
+form .current-location {
   color: white;
   background-color: #b55357;
 }
-.current-location:hover {
+form .current-location:hover {
   background-color: #dd7977;
 }
 h1 {
