@@ -41,8 +41,8 @@ export default function Weather() {
         </div>
         <div className="col-6 conditions">
           <ul>
-            <li>Humidity:40%</li>
-            <li>Wind:2m/s</li>
+            <li>Humidity: 40%</li>
+            <li>Wind: 2m/s</li>
           </ul>
         </div>
       </div>
