@@ -25,21 +25,18 @@ li {
   margin-left: -30px;
 }
 
-.icon {
-  position: relative;
-  bottom: 35px;
-  margin-left: -60px;
+canvas {
+  margin-left: -40px;
 }
 .temperature {
   position: relative;
-  bottom: 30px;
+  bottom: 20px;
   font-family: "Merriweather", serif;
   font-size: 50px;
-  margin-left: -30px;
 }
 .units {
   position: relative;
-  top: -50px;
+  top: -40px;
   font-weight: 700;
   font-family: "Merriweather", serif;
 }
