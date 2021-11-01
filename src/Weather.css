@@ -25,15 +25,15 @@ li {
   margin-left: -30px;
 }
 
-canvas {
-  margin-left: -40px;
+.Icon {
+  margin-left: -35px;
 }
 .temperature {
   position: relative;
   bottom: 75px;
   font-family: "Merriweather", serif;
   font-size: 50px;
-  margin-left: 30px;
+  margin-left: 70px;
 }
 .units {
   position: relative;
