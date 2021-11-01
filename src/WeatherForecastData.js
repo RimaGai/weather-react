@@ -24,10 +24,10 @@ export default function WeatherForecastData(props) {
 
       <WeatherIcon code={props.data.weather[0].icon} />
       <div className="ForecastTemperature">
-        <span classname="TemperatureMax">
+        <span className="TemperatureMax">
           {Math.round(props.data.temp.max)}º/{" "}
         </span>
-        <span classname="TemperatureMin">
+        <span className="TemperatureMin">
           {Math.round(props.data.temp.min)}º
         </span>
       </div>
